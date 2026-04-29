@@ -1,0 +1,9 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Gównownik
+    probability: 1
+name: nazwy_r_m
+source: null
+subsets: []
